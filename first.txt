@@ -1,4 +1,5 @@
 1st line modified again
 2nd line added in feature branch
 3rd line modified in master
+3rd line modified in feature branch
 4t hline added
